@@ -50,3 +50,8 @@ battery SOC, fuel and safety result. At the end it prints core V1 KPIs:
 - Heating is an electrical demand derived from outdoor temperature.
 - The simulator is the only command target. This code must not be connected to
   physical equipment without a proper hardware gateway, testing, and review.
+
+## Requirements
+
+See [REQUIREMENTS.md](REQUIREMENTS.md) for detailed hardware and software specifications, including station microgrid equipment ratings, edge industrial controller specifications, sensor/fieldbus interfaces, and the future production software roadmap.
+
