@@ -1,0 +1,2 @@
+# V1 deliberately has no third-party dependencies.
+# Future upgrade path: pyomo, highspy, pandas, scikit-learn, xgboost, fastapi.
